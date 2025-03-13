@@ -1,0 +1,14 @@
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.exe
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.deps.json
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.runtimeconfig.json
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.dll
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\bin\Debug\net9.0\PrimeiroPrograma.pdb
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.dll
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\obj\Debug\net9.0\refint\PrimeiroPrograma.dll
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.pdb
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\obj\Debug\net9.0\PrimeiroPrograma.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\c_sharp\PrimeiroPrograma\obj\Debug\net9.0\ref\PrimeiroPrograma.dll
