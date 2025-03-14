@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\bin\Debug\net9.0\ParesZeroDez.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\bin\Debug\net9.0\ParesZeroDez.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\bin\Debug\net9.0\ParesZeroDez.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\bin\Debug\net9.0\ParesZeroDez.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\bin\Debug\net9.0\ParesZeroDez.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\obj\Debug\net9.0\ParesZeroDez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\obj\Debug\net9.0\ParesZeroDez.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\obj\Debug\net9.0\ParesZeroDez.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\obj\Debug\net9.0\ParesZeroDez.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\obj\Debug\net9.0\ParesZeroDez.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\obj\Debug\net9.0\ParesZeroDez.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\obj\Debug\net9.0\refint\ParesZeroDez.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\obj\Debug\net9.0\ParesZeroDez.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\obj\Debug\net9.0\ParesZeroDez.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ParesZeroDez\obj\Debug\net9.0\ref\ParesZeroDez.dll

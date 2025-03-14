@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\bin\Debug\net9.0\DivisaoCinco.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\bin\Debug\net9.0\DivisaoCinco.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\bin\Debug\net9.0\DivisaoCinco.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\bin\Debug\net9.0\DivisaoCinco.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\bin\Debug\net9.0\DivisaoCinco.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\obj\Debug\net9.0\DivisaoCinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\obj\Debug\net9.0\DivisaoCinco.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\obj\Debug\net9.0\DivisaoCinco.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\obj\Debug\net9.0\DivisaoCinco.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\obj\Debug\net9.0\DivisaoCinco.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\obj\Debug\net9.0\DivisaoCinco.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\obj\Debug\net9.0\refint\DivisaoCinco.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\obj\Debug\net9.0\DivisaoCinco.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\obj\Debug\net9.0\DivisaoCinco.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\DivisaoCinco\obj\Debug\net9.0\ref\DivisaoCinco.dll

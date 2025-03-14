@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\obj\Debug\net9.0\PositivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\obj\Debug\net9.0\PositivoNegativo.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\obj\Debug\net9.0\PositivoNegativo.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\obj\Debug\net9.0\PositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\obj\Debug\net9.0\PositivoNegativo.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\bin\Debug\net9.0\PositivoNegativo.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\bin\Debug\net9.0\PositivoNegativo.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\bin\Debug\net9.0\PositivoNegativo.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\bin\Debug\net9.0\PositivoNegativo.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\bin\Debug\net9.0\PositivoNegativo.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\obj\Debug\net9.0\PositivoNegativo.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\obj\Debug\net9.0\refint\PositivoNegativo.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\obj\Debug\net9.0\PositivoNegativo.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\obj\Debug\net9.0\PositivoNegativo.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\PositivoNegativo\obj\Debug\net9.0\ref\PositivoNegativo.dll

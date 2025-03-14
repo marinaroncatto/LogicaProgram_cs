@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\migue\\Documents\\Marina\\LogicaProgram_cs\\c_sharp\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
-      "projectName": "PrimeiroPrograma",
-      "projectPath": "C:\\Users\\migue\\Documents\\Marina\\LogicaProgram_cs\\c_sharp\\PrimeiroPrograma\\PrimeiroPrograma.csproj",
+      "projectUniqueName": "C:\\Users\\migue\\Documents\\Marina\\LogicaProgram_cs\\c_sharp\\ParesZeroDez\\ParesZeroDez.csproj",
+      "projectName": "ParesZeroDez",
+      "projectPath": "C:\\Users\\migue\\Documents\\Marina\\LogicaProgram_cs\\c_sharp\\ParesZeroDez\\ParesZeroDez.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\migue\\Documents\\Marina\\LogicaProgram_cs\\c_sharp\\PrimeiroPrograma\\obj\\",
+      "outputPath": "C:\\Users\\migue\\Documents\\Marina\\LogicaProgram_cs\\c_sharp\\ParesZeroDez\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config"
