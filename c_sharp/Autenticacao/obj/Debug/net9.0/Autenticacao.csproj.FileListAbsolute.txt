@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\obj\Debug\net9.0\Autenticacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\obj\Debug\net9.0\Autenticacao.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\obj\Debug\net9.0\Autenticacao.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\obj\Debug\net9.0\Autenticacao.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\obj\Debug\net9.0\Autenticacao.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\bin\Debug\net9.0\Autenticacao.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\bin\Debug\net9.0\Autenticacao.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\bin\Debug\net9.0\Autenticacao.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\bin\Debug\net9.0\Autenticacao.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\bin\Debug\net9.0\Autenticacao.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\obj\Debug\net9.0\Autenticacao.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\obj\Debug\net9.0\refint\Autenticacao.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\obj\Debug\net9.0\Autenticacao.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\obj\Debug\net9.0\Autenticacao.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\Autenticacao\obj\Debug\net9.0\ref\Autenticacao.dll

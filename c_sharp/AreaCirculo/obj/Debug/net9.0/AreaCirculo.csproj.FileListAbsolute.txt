@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\bin\Debug\net9.0\AreaCirculo.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\bin\Debug\net9.0\AreaCirculo.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\bin\Debug\net9.0\AreaCirculo.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\bin\Debug\net9.0\AreaCirculo.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\bin\Debug\net9.0\AreaCirculo.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\obj\Debug\net9.0\AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\obj\Debug\net9.0\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\obj\Debug\net9.0\AreaCirculo.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\obj\Debug\net9.0\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\obj\Debug\net9.0\AreaCirculo.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\obj\Debug\net9.0\AreaCirculo.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\obj\Debug\net9.0\refint\AreaCirculo.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\obj\Debug\net9.0\AreaCirculo.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\obj\Debug\net9.0\AreaCirculo.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\AreaCirculo\obj\Debug\net9.0\ref\AreaCirculo.dll
