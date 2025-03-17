@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\obj\Debug\net9.0\ExemploVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\obj\Debug\net9.0\ExemploVeiculo.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\obj\Debug\net9.0\ExemploVeiculo.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\obj\Debug\net9.0\ExemploVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\obj\Debug\net9.0\ExemploVeiculo.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\bin\Debug\net9.0\ExemploVeiculo.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\bin\Debug\net9.0\ExemploVeiculo.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\bin\Debug\net9.0\ExemploVeiculo.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\bin\Debug\net9.0\ExemploVeiculo.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\bin\Debug\net9.0\ExemploVeiculo.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\obj\Debug\net9.0\ExemploVeiculo.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\obj\Debug\net9.0\refint\ExemploVeiculo.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\obj\Debug\net9.0\ExemploVeiculo.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\obj\Debug\net9.0\ExemploVeiculo.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploVeiculo\obj\Debug\net9.0\ref\ExemploVeiculo.dll
