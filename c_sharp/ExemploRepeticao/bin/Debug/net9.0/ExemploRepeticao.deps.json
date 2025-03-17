@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ExemploRepeticao/1.0.0": {
+        "runtime": {
+          "ExemploRepeticao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploRepeticao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

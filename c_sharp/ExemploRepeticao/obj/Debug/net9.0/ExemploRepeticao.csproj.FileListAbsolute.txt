@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\bin\Debug\net9.0\ExemploRepeticao.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\bin\Debug\net9.0\ExemploRepeticao.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\bin\Debug\net9.0\ExemploRepeticao.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\bin\Debug\net9.0\ExemploRepeticao.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\bin\Debug\net9.0\ExemploRepeticao.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\obj\Debug\net9.0\ExemploRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\obj\Debug\net9.0\ExemploRepeticao.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\obj\Debug\net9.0\ExemploRepeticao.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\obj\Debug\net9.0\ExemploRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\obj\Debug\net9.0\ExemploRepeticao.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\obj\Debug\net9.0\ExemploRepeticao.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\obj\Debug\net9.0\refint\ExemploRepeticao.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\obj\Debug\net9.0\ExemploRepeticao.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\obj\Debug\net9.0\ExemploRepeticao.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploRepeticao\obj\Debug\net9.0\ref\ExemploRepeticao.dll

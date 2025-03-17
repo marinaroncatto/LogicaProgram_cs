@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\bin\Debug\net9.0\ExemploImc.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\bin\Debug\net9.0\ExemploImc.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\bin\Debug\net9.0\ExemploImc.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\bin\Debug\net9.0\ExemploImc.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\bin\Debug\net9.0\ExemploImc.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\obj\Debug\net9.0\ExemploImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\obj\Debug\net9.0\ExemploImc.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\obj\Debug\net9.0\ExemploImc.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\obj\Debug\net9.0\ExemploImc.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\obj\Debug\net9.0\ExemploImc.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\obj\Debug\net9.0\ExemploImc.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\obj\Debug\net9.0\refint\ExemploImc.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\obj\Debug\net9.0\ExemploImc.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\obj\Debug\net9.0\ExemploImc.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploImc\obj\Debug\net9.0\ref\ExemploImc.dll

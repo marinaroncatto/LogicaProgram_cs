@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\bin\Debug\net9.0\ExemploSomatoria.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\bin\Debug\net9.0\ExemploSomatoria.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\bin\Debug\net9.0\ExemploSomatoria.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\bin\Debug\net9.0\ExemploSomatoria.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\bin\Debug\net9.0\ExemploSomatoria.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\obj\Debug\net9.0\ExemploSomatoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\obj\Debug\net9.0\ExemploSomatoria.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\obj\Debug\net9.0\ExemploSomatoria.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\obj\Debug\net9.0\ExemploSomatoria.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\obj\Debug\net9.0\ExemploSomatoria.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\obj\Debug\net9.0\ExemploSomatoria.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\obj\Debug\net9.0\refint\ExemploSomatoria.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\obj\Debug\net9.0\ExemploSomatoria.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\obj\Debug\net9.0\ExemploSomatoria.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploSomatoria\obj\Debug\net9.0\ref\ExemploSomatoria.dll
