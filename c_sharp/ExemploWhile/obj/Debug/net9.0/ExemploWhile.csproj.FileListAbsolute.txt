@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\obj\Debug\net9.0\ExemploWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\obj\Debug\net9.0\ExemploWhile.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\obj\Debug\net9.0\ExemploWhile.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\obj\Debug\net9.0\ExemploWhile.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\obj\Debug\net9.0\ExemploWhile.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\bin\Debug\net9.0\ExemploWhile.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\bin\Debug\net9.0\ExemploWhile.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\bin\Debug\net9.0\ExemploWhile.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\bin\Debug\net9.0\ExemploWhile.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\bin\Debug\net9.0\ExemploWhile.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\obj\Debug\net9.0\ExemploWhile.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\obj\Debug\net9.0\refint\ExemploWhile.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\obj\Debug\net9.0\ExemploWhile.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\obj\Debug\net9.0\ExemploWhile.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploWhile\obj\Debug\net9.0\ref\ExemploWhile.dll
