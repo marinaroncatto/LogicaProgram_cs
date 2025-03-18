@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\bin\Debug\net9.0\EstudoDeFuncao.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\bin\Debug\net9.0\EstudoDeFuncao.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\bin\Debug\net9.0\EstudoDeFuncao.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\bin\Debug\net9.0\EstudoDeFuncao.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\bin\Debug\net9.0\EstudoDeFuncao.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\obj\Debug\net9.0\EstudoDeFuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\obj\Debug\net9.0\EstudoDeFuncao.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\obj\Debug\net9.0\EstudoDeFuncao.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\obj\Debug\net9.0\EstudoDeFuncao.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\obj\Debug\net9.0\EstudoDeFuncao.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\obj\Debug\net9.0\EstudoDeFuncao.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\obj\Debug\net9.0\refint\EstudoDeFuncao.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\obj\Debug\net9.0\EstudoDeFuncao.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\obj\Debug\net9.0\EstudoDeFuncao.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\EstudoDeFuncao\obj\Debug\net9.0\ref\EstudoDeFuncao.dll
