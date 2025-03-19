@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\bin\Debug\net9.0\ExemploFor.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\bin\Debug\net9.0\ExemploFor.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\bin\Debug\net9.0\ExemploFor.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\bin\Debug\net9.0\ExemploFor.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\bin\Debug\net9.0\ExemploFor.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\obj\Debug\net9.0\ExemploFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\obj\Debug\net9.0\ExemploFor.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\obj\Debug\net9.0\ExemploFor.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\obj\Debug\net9.0\ExemploFor.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\obj\Debug\net9.0\ExemploFor.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\obj\Debug\net9.0\ExemploFor.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\obj\Debug\net9.0\refint\ExemploFor.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\obj\Debug\net9.0\ExemploFor.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\obj\Debug\net9.0\ExemploFor.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExemploFor\obj\Debug\net9.0\ref\ExemploFor.dll

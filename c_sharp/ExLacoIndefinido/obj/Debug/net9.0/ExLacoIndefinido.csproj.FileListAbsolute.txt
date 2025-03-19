@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\bin\Debug\net9.0\ExLacoIndefinido.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\bin\Debug\net9.0\ExLacoIndefinido.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\bin\Debug\net9.0\ExLacoIndefinido.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\bin\Debug\net9.0\ExLacoIndefinido.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\bin\Debug\net9.0\ExLacoIndefinido.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\obj\Debug\net9.0\ExLacoIndefinido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\obj\Debug\net9.0\ExLacoIndefinido.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\obj\Debug\net9.0\ExLacoIndefinido.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\obj\Debug\net9.0\ExLacoIndefinido.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\obj\Debug\net9.0\ExLacoIndefinido.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\obj\Debug\net9.0\ExLacoIndefinido.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\obj\Debug\net9.0\refint\ExLacoIndefinido.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\obj\Debug\net9.0\ExLacoIndefinido.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\obj\Debug\net9.0\ExLacoIndefinido.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExLacoIndefinido\obj\Debug\net9.0\ref\ExLacoIndefinido.dll
