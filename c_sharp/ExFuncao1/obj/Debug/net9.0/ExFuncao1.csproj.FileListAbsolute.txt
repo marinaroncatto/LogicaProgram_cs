@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\bin\Debug\net9.0\ExFuncao1.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\bin\Debug\net9.0\ExFuncao1.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\bin\Debug\net9.0\ExFuncao1.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\bin\Debug\net9.0\ExFuncao1.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\bin\Debug\net9.0\ExFuncao1.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\obj\Debug\net9.0\ExFuncao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\obj\Debug\net9.0\ExFuncao1.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\obj\Debug\net9.0\ExFuncao1.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\obj\Debug\net9.0\ExFuncao1.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\obj\Debug\net9.0\ExFuncao1.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\obj\Debug\net9.0\ExFuncao1.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\obj\Debug\net9.0\refint\ExFuncao1.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\obj\Debug\net9.0\ExFuncao1.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\obj\Debug\net9.0\ExFuncao1.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp\ExFuncao1\obj\Debug\net9.0\ref\ExFuncao1.dll
