@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\bin\Debug\net9.0\Program1.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\bin\Debug\net9.0\Program1.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\bin\Debug\net9.0\Program1.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\bin\Debug\net9.0\Program1.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\bin\Debug\net9.0\Program1.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\obj\Debug\net9.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\obj\Debug\net9.0\Program1.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\obj\Debug\net9.0\Program1.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\obj\Debug\net9.0\Program1.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\obj\Debug\net9.0\Program1.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\obj\Debug\net9.0\Program1.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\obj\Debug\net9.0\refint\Program1.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\obj\Debug\net9.0\Program1.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\obj\Debug\net9.0\Program1.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Program1\obj\Debug\net9.0\ref\Program1.dll
