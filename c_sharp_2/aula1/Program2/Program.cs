@@ -9,20 +9,22 @@ class Program
         //1 - coleta de dados
 
         Boletim boletim = new Boletim();
+        Tela tela = new Tela();
+        NotasAluno notas = new NotasAluno();
 
         Console.WriteLine("--PROGRAMA DE MÉDIA --");
-       double n1 = boletim.PedirNota("Informe a nota 01");
-       double n2 = boletim.PedirNota("Informe a nota 02");
-       double n3 = boletim.PedirNota("Informe a nota 03");           
+       notas.Nota1 = tela.PedirNota("Informe a nota 01");
+       notas.Nota2 = tela.PedirNota("Informe a nota 02");
+       notas.Nota3 = tela.PedirNota("Informe a nota 03");           
 
         //2 - Resolução do problema
 
-        double media = boletim.CalcularMedia(n1,n2,n3);
+        double media = boletim.CalcularMedia(notas);
         String situacao = boletim.VerificarSituacao(media);
         
         //3 - apresentação do resultado
 
-        boletim.Exibir(media, situacao);
+        tela.Exibir(media, situacao);
 
     }
 

@@ -1,15 +1,8 @@
 class Boletim
 {
-    public double PedirNota(string msg)
+     public double CalcularMedia(NotasAluno notas)
     {
-        Console.WriteLine(msg);
-        double nota = Convert.ToDouble(Console.ReadLine());
-        return nota;
-    }
-
-    public double CalcularMedia(double n1, double n2, double n3)
-    {
-        double media = (n1 + n2 + n3) / 3.0;
+        double media = (notas.Nota1 + notas.Nota2 + notas.Nota3) / 3.0;
         return media;
     }
 
@@ -30,9 +23,5 @@ class Boletim
         return situacao;
     }
 
-    public void Exibir(double media, string situacao)
-    {
-        Console.WriteLine($"Media: {media}");
-        Console.WriteLine($"Situação: {situacao}");
-    }
+  
 }
