@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\bin\Debug\net9.0\MediaVetores.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\bin\Debug\net9.0\MediaVetores.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\bin\Debug\net9.0\MediaVetores.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\bin\Debug\net9.0\MediaVetores.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\bin\Debug\net9.0\MediaVetores.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\obj\Debug\net9.0\MediaVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\obj\Debug\net9.0\MediaVetores.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\obj\Debug\net9.0\MediaVetores.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\obj\Debug\net9.0\MediaVetores.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\obj\Debug\net9.0\MediaVetores.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\obj\Debug\net9.0\MediaVetores.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\obj\Debug\net9.0\refint\MediaVetores.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\obj\Debug\net9.0\MediaVetores.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\obj\Debug\net9.0\MediaVetores.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\MediaVetores\obj\Debug\net9.0\ref\MediaVetores.dll
