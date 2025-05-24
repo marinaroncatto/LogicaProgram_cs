@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\bin\Debug\net9.0\PTIantiga.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\bin\Debug\net9.0\PTIantiga.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\bin\Debug\net9.0\PTIantiga.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\bin\Debug\net9.0\PTIantiga.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\bin\Debug\net9.0\PTIantiga.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\obj\Debug\net9.0\PTIantiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\obj\Debug\net9.0\PTIantiga.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\obj\Debug\net9.0\PTIantiga.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\obj\Debug\net9.0\PTIantiga.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\obj\Debug\net9.0\PTIantiga.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\obj\Debug\net9.0\PTIantiga.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\obj\Debug\net9.0\refint\PTIantiga.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\obj\Debug\net9.0\PTIantiga.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\obj\Debug\net9.0\PTIantiga.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\PTIantiga\obj\Debug\net9.0\ref\PTIantiga.dll
