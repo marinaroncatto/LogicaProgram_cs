@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\bin\Debug\net9.0\FuncaoRecursiva.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\bin\Debug\net9.0\FuncaoRecursiva.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\bin\Debug\net9.0\FuncaoRecursiva.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\bin\Debug\net9.0\FuncaoRecursiva.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\bin\Debug\net9.0\FuncaoRecursiva.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\obj\Debug\net9.0\FuncaoRecursiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\obj\Debug\net9.0\FuncaoRecursiva.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\obj\Debug\net9.0\FuncaoRecursiva.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\obj\Debug\net9.0\FuncaoRecursiva.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\obj\Debug\net9.0\FuncaoRecursiva.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\obj\Debug\net9.0\FuncaoRecursiva.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\obj\Debug\net9.0\refint\FuncaoRecursiva.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\obj\Debug\net9.0\FuncaoRecursiva.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\obj\Debug\net9.0\FuncaoRecursiva.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\aula1\Funcaorecursiva\obj\Debug\net9.0\ref\FuncaoRecursiva.dll
