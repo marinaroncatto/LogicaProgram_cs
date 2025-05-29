@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\bin\Debug\net9.0\Vetores.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\bin\Debug\net9.0\Vetores.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\bin\Debug\net9.0\Vetores.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\bin\Debug\net9.0\Vetores.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\bin\Debug\net9.0\Vetores.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\obj\Debug\net9.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\obj\Debug\net9.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\obj\Debug\net9.0\Vetores.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\obj\Debug\net9.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\obj\Debug\net9.0\Vetores.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\obj\Debug\net9.0\Vetores.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\obj\Debug\net9.0\refint\Vetores.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\obj\Debug\net9.0\Vetores.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\obj\Debug\net9.0\Vetores.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostilas\Vetores\obj\Debug\net9.0\ref\Vetores.dll

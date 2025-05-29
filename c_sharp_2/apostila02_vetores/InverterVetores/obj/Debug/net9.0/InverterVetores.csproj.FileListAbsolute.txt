@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\bin\Debug\net9.0\InverterVetores.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\bin\Debug\net9.0\InverterVetores.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\bin\Debug\net9.0\InverterVetores.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\bin\Debug\net9.0\InverterVetores.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\bin\Debug\net9.0\InverterVetores.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\obj\Debug\net9.0\InverterVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\obj\Debug\net9.0\InverterVetores.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\obj\Debug\net9.0\InverterVetores.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\obj\Debug\net9.0\InverterVetores.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\obj\Debug\net9.0\InverterVetores.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\obj\Debug\net9.0\InverterVetores.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\obj\Debug\net9.0\refint\InverterVetores.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\obj\Debug\net9.0\InverterVetores.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\obj\Debug\net9.0\InverterVetores.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila02_vetores\InverterVetores\obj\Debug\net9.0\ref\InverterVetores.dll
