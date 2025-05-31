@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\bin\Debug\net9.0\Matrizes.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\bin\Debug\net9.0\Matrizes.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\bin\Debug\net9.0\Matrizes.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\bin\Debug\net9.0\Matrizes.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\bin\Debug\net9.0\Matrizes.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\obj\Debug\net9.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\obj\Debug\net9.0\Matrizes.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\obj\Debug\net9.0\Matrizes.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\obj\Debug\net9.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\obj\Debug\net9.0\Matrizes.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\obj\Debug\net9.0\Matrizes.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\obj\Debug\net9.0\refint\Matrizes.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\obj\Debug\net9.0\Matrizes.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\obj\Debug\net9.0\Matrizes.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz01\Matrizes\obj\Debug\net9.0\ref\Matrizes.dll

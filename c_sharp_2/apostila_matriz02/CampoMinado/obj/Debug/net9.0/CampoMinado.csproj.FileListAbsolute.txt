@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\bin\Debug\net9.0\CampoMinado.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\bin\Debug\net9.0\CampoMinado.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\bin\Debug\net9.0\CampoMinado.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\bin\Debug\net9.0\CampoMinado.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\bin\Debug\net9.0\CampoMinado.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\obj\Debug\net9.0\CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\obj\Debug\net9.0\CampoMinado.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\obj\Debug\net9.0\CampoMinado.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\obj\Debug\net9.0\CampoMinado.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\obj\Debug\net9.0\CampoMinado.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\obj\Debug\net9.0\CampoMinado.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\obj\Debug\net9.0\refint\CampoMinado.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\obj\Debug\net9.0\CampoMinado.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\obj\Debug\net9.0\CampoMinado.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\apostila_matriz02\CampoMinado\obj\Debug\net9.0\ref\CampoMinado.dll
