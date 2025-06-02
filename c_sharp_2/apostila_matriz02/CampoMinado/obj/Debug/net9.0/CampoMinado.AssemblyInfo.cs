@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CampoMinado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66b554ee0f59ef44c96fefe66447cbae90d36953")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0047029541616c55728cdc715193f96d57092fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CampoMinado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CampoMinado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
