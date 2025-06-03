@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\obj\Debug\net9.0\BuscaLinear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\obj\Debug\net9.0\BuscaLinear.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\obj\Debug\net9.0\BuscaLinear.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\obj\Debug\net9.0\BuscaLinear.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\obj\Debug\net9.0\BuscaLinear.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\bin\Debug\net9.0\BuscaLinear.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\bin\Debug\net9.0\BuscaLinear.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\bin\Debug\net9.0\BuscaLinear.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\bin\Debug\net9.0\BuscaLinear.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\bin\Debug\net9.0\BuscaLinear.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\obj\Debug\net9.0\BuscaLinear.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\obj\Debug\net9.0\refint\BuscaLinear.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\obj\Debug\net9.0\BuscaLinear.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\obj\Debug\net9.0\BuscaLinear.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgoritmosBusca_Vetores\BuscaLinear\BuscaLinear\obj\Debug\net9.0\ref\BuscaLinear.dll
