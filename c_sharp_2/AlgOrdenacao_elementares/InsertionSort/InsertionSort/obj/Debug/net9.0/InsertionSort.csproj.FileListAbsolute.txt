@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\bin\Debug\net9.0\InsertionSort.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\bin\Debug\net9.0\InsertionSort.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\bin\Debug\net9.0\InsertionSort.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\bin\Debug\net9.0\InsertionSort.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\bin\Debug\net9.0\InsertionSort.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\obj\Debug\net9.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\obj\Debug\net9.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\obj\Debug\net9.0\InsertionSort.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\obj\Debug\net9.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\obj\Debug\net9.0\InsertionSort.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\obj\Debug\net9.0\InsertionSort.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\obj\Debug\net9.0\refint\InsertionSort.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\obj\Debug\net9.0\InsertionSort.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\obj\Debug\net9.0\InsertionSort.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_elementares\InsertionSort\InsertionSort\obj\Debug\net9.0\ref\InsertionSort.dll
