@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\bin\Debug\net9.0\MultiplicacaoDedutiva.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\bin\Debug\net9.0\MultiplicacaoDedutiva.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\bin\Debug\net9.0\MultiplicacaoDedutiva.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\bin\Debug\net9.0\MultiplicacaoDedutiva.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\bin\Debug\net9.0\MultiplicacaoDedutiva.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\obj\Debug\net9.0\MultiplicacaoDedutiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\obj\Debug\net9.0\MultiplicacaoDedutiva.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\obj\Debug\net9.0\MultiplicacaoDedutiva.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\obj\Debug\net9.0\MultiplicacaoDedutiva.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\obj\Debug\net9.0\MultiplicacaoDedutiva.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\obj\Debug\net9.0\MultiplicacaoDedutiva.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\obj\Debug\net9.0\refint\MultiplicacaoDedutiva.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\obj\Debug\net9.0\MultiplicacaoDedutiva.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\obj\Debug\net9.0\MultiplicacaoDedutiva.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\MultiplicacaoDedutiva\MultiplicacaoDedutiva\obj\Debug\net9.0\ref\MultiplicacaoDedutiva.dll
