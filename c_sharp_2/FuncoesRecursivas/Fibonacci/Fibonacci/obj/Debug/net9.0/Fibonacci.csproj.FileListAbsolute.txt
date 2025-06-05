@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\bin\Debug\net9.0\Fibonacci.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\bin\Debug\net9.0\Fibonacci.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\bin\Debug\net9.0\Fibonacci.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\bin\Debug\net9.0\Fibonacci.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\bin\Debug\net9.0\Fibonacci.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\obj\Debug\net9.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\obj\Debug\net9.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\obj\Debug\net9.0\Fibonacci.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\obj\Debug\net9.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\obj\Debug\net9.0\Fibonacci.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\obj\Debug\net9.0\Fibonacci.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\obj\Debug\net9.0\refint\Fibonacci.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\obj\Debug\net9.0\Fibonacci.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\obj\Debug\net9.0\Fibonacci.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\Fibonacci\Fibonacci\obj\Debug\net9.0\ref\Fibonacci.dll
