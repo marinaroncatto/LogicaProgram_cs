@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\bin\Debug\net9.0\CalculoFatorial.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\bin\Debug\net9.0\CalculoFatorial.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\bin\Debug\net9.0\CalculoFatorial.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\bin\Debug\net9.0\CalculoFatorial.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\bin\Debug\net9.0\CalculoFatorial.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\obj\Debug\net9.0\CalculoFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\obj\Debug\net9.0\CalculoFatorial.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\obj\Debug\net9.0\CalculoFatorial.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\obj\Debug\net9.0\CalculoFatorial.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\obj\Debug\net9.0\CalculoFatorial.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\obj\Debug\net9.0\CalculoFatorial.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\obj\Debug\net9.0\refint\CalculoFatorial.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\obj\Debug\net9.0\CalculoFatorial.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\obj\Debug\net9.0\CalculoFatorial.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\FuncoesRecursivas\CalculoFatorial\obj\Debug\net9.0\ref\CalculoFatorial.dll
