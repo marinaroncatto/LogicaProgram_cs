@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\bin\Debug\net9.0\MergeSort.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\bin\Debug\net9.0\MergeSort.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\bin\Debug\net9.0\MergeSort.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\bin\Debug\net9.0\MergeSort.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\bin\Debug\net9.0\MergeSort.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\obj\Debug\net9.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\obj\Debug\net9.0\MergeSort.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\obj\Debug\net9.0\MergeSort.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\obj\Debug\net9.0\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\obj\Debug\net9.0\MergeSort.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\obj\Debug\net9.0\MergeSort.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\obj\Debug\net9.0\refint\MergeSort.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\obj\Debug\net9.0\MergeSort.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\obj\Debug\net9.0\MergeSort.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\AlgOrdenacao_eficientes\MergeSort\MergeSort\obj\Debug\net9.0\ref\MergeSort.dll
