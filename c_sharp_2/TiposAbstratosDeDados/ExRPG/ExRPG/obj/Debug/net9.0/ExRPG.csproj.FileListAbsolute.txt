@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\bin\Debug\net9.0\ExRPG.exe
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\bin\Debug\net9.0\ExRPG.deps.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\bin\Debug\net9.0\ExRPG.runtimeconfig.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\bin\Debug\net9.0\ExRPG.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\bin\Debug\net9.0\ExRPG.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\obj\Debug\net9.0\ExRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\obj\Debug\net9.0\ExRPG.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\obj\Debug\net9.0\ExRPG.AssemblyInfo.cs
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\obj\Debug\net9.0\ExRPG.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\obj\Debug\net9.0\ExRPG.sourcelink.json
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\obj\Debug\net9.0\ExRPG.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\obj\Debug\net9.0\refint\ExRPG.dll
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\obj\Debug\net9.0\ExRPG.pdb
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\obj\Debug\net9.0\ExRPG.genruntimeconfig.cache
+C:\Users\migue\Documents\Marina\LogicaProgram_cs\c_sharp_2\TiposAbstratosDeDados\ExRPG\ExRPG\obj\Debug\net9.0\ref\ExRPG.dll
